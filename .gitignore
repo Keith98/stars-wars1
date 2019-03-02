@@ -1,0 +1,15 @@
+/node_modules
+git push heroku master
+git status
+git commit -m "message'
+heroku --tail 
+
+git commands to deploy
+remember to save files
+git add .
+git commit -m 'message'
+git push [heroku master]
+git remote -v
+
+add to remote repo
+git remote add origin [repo]
